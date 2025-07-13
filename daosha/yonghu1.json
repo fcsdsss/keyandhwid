@@ -1,0 +1,7 @@
+{
+    "status": "active",       // 状态：active/disabled
+    "expires": "2035-12-31",  // 有效期
+    "hwid": "",               // 绑定的HWID（首次使用后自动填充）
+    "uses": 0,                // 当前使用次数
+    "max_uses": 999             // 最大使用次数
+}
